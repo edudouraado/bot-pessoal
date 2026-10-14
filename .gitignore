@@ -9,6 +9,7 @@ env/
 # Streamlit / dados locais
 .streamlit/
 vagas_remote.csv
+candidaturas.db
 
 # Sistema / IDE
 Thumbs.db
